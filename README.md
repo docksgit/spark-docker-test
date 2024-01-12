@@ -1,7 +1,7 @@
 Sources:
-- Steps
+- Steps\
 [Using Apache Spark Docker containers to run pyspark programs using spark-submit](https://medium.com/@mehmood9501/using-apache-spark-docker-containers-to-run-pyspark-programs-using-spark-submit-afd6da480e0f)!
-- Problem solving
+- Problem solving\
 [Cannot docker-compose exec when container_name is set](https://github.com/docker/compose/issues/4706)!
 
 
