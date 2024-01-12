@@ -19,6 +19,6 @@ Info:
 - service name -> `spark-master`
 
 Remarks:
-- `spark-docker-test-spark-master-1` in command 2 is a container name (look at "docker ps" command or Docker Desktop)
-- `spark-master` in command 4 is a service name (look at docker-compose.yml)
+- `spark-docker-test-spark-master-1` in command 2 is a **container name** (look at "docker ps" command or Docker Desktop)
+- `spark-master` in command 4 is a **service name** (look at docker-compose.yml)
 - `spark://172.19.0.2:7077` in command 4 is spark master address where we have copied our py file into previously (find this address by command 3 or look at Docker Desktop > click spark-docker-test-spark-master-1 container)
